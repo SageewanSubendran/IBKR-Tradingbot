@@ -156,4 +156,4 @@ If the user doesn't have the clientportal gateway downloaded, then the library w
 
 
 ----
-Credits to areed1192 for the documentation
+Credits to https://github.com/areed1192 for the documentation
